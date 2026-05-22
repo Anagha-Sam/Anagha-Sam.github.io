@@ -47,3 +47,20 @@ Integrated PIR sensors into a robotic prototype for robustsignal processing and 
 * **Technologies & Frameworks:** Cucumber, Git (Version ControlSystem), Jira, Atlassian Bamboo, Agilemethodology
 * **MS Office Tools:** Microsoft Word, Microsoft Excel, MS PowerPoint, Outlook, SharePoint, Confluence
 * **Soft Skills:** Hands-on Mentality, Confident, Problem-Solving, Independent and structured work style, Teamwork, Proactive, PresentationSkills, Eager to Learn, Self Organized.
+
+---
+
+## Certificates
+
+* Comprehensive Introduction to PyTorch (CodeSignal)
+* Google UX Design (Coursera)
+
+---
+
+## Languages
+
+* Malayalam (Mother Tongue) - C2
+* German - B1
+* English - C1
+
+---
