@@ -10,6 +10,20 @@ I am an Autonomy Technologies student and former Systems Engineer  on a mission 
 
 ---
 
+## Education
+
+### Master of Science Autonomy Technologies
+**Friedrich-Alexander-Universität Erlangen-Nürnberg** *04/2024 – Present*
+
+Specialization in Human-system Interfaces and Planning& Control, Robotics in surgery and diagnostics, Humancomputer interaction, Intent detection and feedback,Cognitive neuroscience for AI developers, Deep Learning,Machine Learning, Robotics, Rehabilitation and AssistiveRobotics, Nonlinear Control Systems, Pattern Analysis
+
+### Bachelor of Technology in Applied Electronics and Instrumentation Engineering
+**LBS Institute of Technology for Women, Trivandrum, Kerala** *2017 – 2021*
+
+Logic Circuit Design, Digital Signal Processing, ControlSystem, Advanced Control Theory, Logic and DistributedControl System, Biomedical Instrumentation, Sensors andTransducers, Electronic circuits
+
+---
+
 ## Academic Projects & Laboratory Experience
 
 ### Robot Control Laboratory (FAU)
