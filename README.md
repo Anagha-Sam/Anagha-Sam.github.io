@@ -29,6 +29,8 @@ Logic Circuit Design, Digital Signal Processing, ControlSystem, Advanced Control
 ### Robot Control Laboratory (FAU)
 Implemented joint-space and task-space control on a 7-DOF Franka Emika robot, including PD and inversedynamics control, Cartesian motion and force control,quaternion-based trajectory planning, and hybrid force/ motion control.
 
+![Franka Emika Control Loop Simulation](franka_setup.jpg)
+
 ### Nonlinear Control Systems Laboratory (FAU)
 Modeled nonlinear systems and designed flatness-basedcontrollers for a ball-on-plate system and a laboratorycrane; validated control performance in MATLAB/ Simulinkand real-time experiments using dSPACE
 
